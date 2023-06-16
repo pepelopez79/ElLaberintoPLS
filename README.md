@@ -1,4 +1,4 @@
-# ElLaberintoPLS
+# ElLaberinto
 Mi primer proyecto/juego en LibGDX programado con Kotlin
 
 Enlace de descarga del código completo desde Mega:
