@@ -1,4 +1,4 @@
-# ElLaberintoPLS_LibGDX_Kotlin
+# ElLaberintoPLS
 Mi primer proyecto/juego en LibGDX programado con Kotlin
 
 Enlace de descarga del código completo junto a las librerías necesarias:
